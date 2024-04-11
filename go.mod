@@ -1,3 +1,3 @@
-module github.com/osobotu/just-auth
+module github.com/osobotu/just_auth
 
 go 1.22.1

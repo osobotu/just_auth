@@ -9,4 +9,4 @@ Auth functionality included:
 3. OTP authentication (via Email)
 
 Provided endpoints:
-[Link to swagger]()
+[api docs]()
